@@ -1,6 +1,6 @@
 # ECG Analysis Project
 
-![ECG Analysis Demo](results/ecg_plot.png)
+![ECG Analysis Demo](Pictures/ECGwithRpeaks.png)
 
 ## Project Description
 MATLAB implementation of ECG signal processing using:
